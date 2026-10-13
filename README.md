@@ -64,7 +64,7 @@ Full-stack developer from **Arequipa, Perú** 🇵🇪. I build web apps end to 
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skyze2002&bg_color=0d1117&color=60a5fa&line=2563eb&point=ffffff&area=true&hide_border=true&radius=8" width="100%" alt="Contribution graph" />
+  <img src="https://ghchart.rshah.org/2563eb/skyze2002" width="100%" alt="Contribution chart" />
 </p>
 
 <p align="center"><sub>Open to freelance & full-time roles — <a href="mailto:fernndomontecinos@gmail.com">let's work together</a> 🤝</sub></p>
