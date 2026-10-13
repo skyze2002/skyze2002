@@ -6,6 +6,10 @@
   <a href="mailto:fernndomontecinos@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+from+Arequipa%2C+Per%C3%BA;Next.js+%C2%B7+TypeScript+%C2%B7+tRPC+%C2%B7+Supabase;FastAPI+%C2%B7+PostgreSQL+%C2%B7+Redis;Shipping+products+that+solve+real+problems" alt="Typing intro" />
+</p>
+
 ### 👋 Hi, I'm Fernando
 
 Full-stack developer from **Arequipa, Perú** 🇵🇪. I build web apps end to end — from the interface to the database — and I like to **ship products that solve real problems**.
@@ -63,8 +67,12 @@ Full-stack developer from **Arequipa, Perú** 🇵🇪. I build web apps end to 
 
 ---
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/2563eb/skyze2002" width="100%" alt="Contribution chart" />
-</p>
+### 🐍 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skyze2002/skyze2002/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skyze2002/skyze2002/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/skyze2002/skyze2002/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 <p align="center"><sub>Open to freelance & full-time roles — <a href="mailto:fernndomontecinos@gmail.com">let's work together</a> 🤝</sub></p>
