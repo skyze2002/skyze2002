@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:2563eb&text=Fernando%20Montecinos&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%2C%20design%20%26%20code&descAlignY=60&descSize=18" width="100%" alt="Fernando Montecinos — Full-Stack Developer" />
+<img src="./banner.svg" width="100%" alt="Fernando Montecinos — Full-Stack Developer" />
 
 <p align="center">
   <a href="https://fernando-portafolio-murex.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
