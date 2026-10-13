@@ -1,5 +1,4 @@
-
-      <svg
+<svg
         width="854"
         height="180"
         xmlns="http://www.w3.org/2000/svg"
@@ -16,7 +15,6 @@
                 <stop offset="0%" stop-color="#0f172a"/><stop offset="100%" stop-color="#2563eb"/>
               </linearGradient>
             </defs>
-        
       <g transform="translate(427, 90) scale(1, 1) translate(-427, -90)">
         <path d="" fill="url(#linear)" opacity="0.4" >
           <animate
@@ -44,6 +42,5 @@
         </path>
       </g>
          <text text-anchor="middle" dominant-baseline="middle" x="50%" y="38%" class="text" style="fill:#ffffff;" stroke="#none" stroke-width="1" >Fernando Montecinos</text>
-        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="60%" class="desc" style="fill:#ffffff;">Full-Stack Developer · AI, design & code</text>
+        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="60%" class="desc" style="fill:#ffffff;">Full-Stack Developer · AI, design &amp; code</text>
       </svg>
-    
